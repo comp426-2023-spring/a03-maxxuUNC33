@@ -18,8 +18,8 @@
     "module"
   ],
   "bin": {
-    "node-rps": "./bin/rps-clis.js",
-    "node-rpsls": "rpsls-clis.js"
+    "node-rps": "./bin/rps-cli.js",
+    "node-rpsls": "./bin/rpsls-cli.js"
   },
   "author": "Max Xu",
   "license": "MIT",
