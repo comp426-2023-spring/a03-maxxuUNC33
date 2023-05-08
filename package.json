@@ -4,9 +4,8 @@
   "description": "Create a module-based command line Node.js package (with CLI)",
   "main": "./lib/rpsls.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "rps": "node rps-cli.js",
-    "rpsls": "node rpsls-cli.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
