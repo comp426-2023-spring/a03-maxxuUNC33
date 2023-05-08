@@ -21,6 +21,7 @@
     "node-rps": "./bin/rps-cli.js",
     "node-rpsls": "./bin/rpsls-cli.js"
   },
+  "type":"module",
   "author": "Max Xu",
   "license": "MIT",
   "bugs": {
