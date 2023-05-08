@@ -1,0 +1,32 @@
+{
+  "name": "node-rpsls",
+  "version": "1.0.0",
+  "description": "Create a module-based command line Node.js package (with CLI)",
+  "main": "./lib/rpsls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a03-maxxuUNC33.git"
+  },
+  "keywords": [
+    "Rock",
+    "Paper",
+    "Scissors",
+    "module"
+  ],
+  "bin": {
+    "node-rps": "./bin/rps-clis.js",
+    "node-rpsls": "rpsls-clis.js"
+  },
+  "author": "Max Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a03-maxxuUNC33/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a03-maxxuUNC33#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
